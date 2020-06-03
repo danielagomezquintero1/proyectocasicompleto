@@ -1,0 +1,3 @@
+<?php
+protect_page();
+?>
